@@ -20,37 +20,37 @@ using namespace std;
 
 int main()
 {
-int sum1, sum2, sum3, i1, i;
+int sum1, sum2, sum3, poll, i;
 sum1 = sum2 = sum3 =0;
 	do
 	{
 		cout<< "which pani puri do you like? Please enter your poll!! \n 1 for ragda \n 2 for boondi \n 3 for moong \n 0 to quit"<< endl;
-		cin >>i1;
+		cin >>poll;
 
-			if(i1==1)
+			if(poll==1)
 			{
 				sum1 ++;
 			}
-			if(i1==2)
+			if(poll==2)
 			{
 				sum2 ++;
 			}
-			if(i1==3)
+			if(poll==3)
 			{
 				sum3 ++;
 			}
-	}while (i1!=0);
-cout << "\nragda ="<< sum1<<endl;
+	}while (poll!=0);
+cout << "\nragda = "<< sum1<<endl;
 	for (i=0; i< sum1;i++)
 	{
 		cout<<"*";
 	}
-cout << "\nboondi ="<< sum2<<endl;
+cout << "\nboondi = "<< sum2<<endl;
 	for (i=0; i< sum2;i++)
 	{
 		cout<<"*";
 	}
-cout << "\nmoong ="<< sum3<<endl;
+cout << "\nmoong = "<< sum3<<endl;
 	for (i=0; i< sum3;i++)
 	{
 		cout<<"*";

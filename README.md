@@ -2,11 +2,15 @@
 
 2. Write a menu program that lets the user select from a list of options, and if the input is not one
 of the options, reprint the list
+
 3. Write a program that computes a running sum of inputs from the user, terminating when the
 user gives an input value of 0
+
 4. Write a password prompt that gives a user only a certain number of password entry attempts—
 so that the user cannot easily write a password cracker.
+
 6. Write a program that displays the first 20 square numbers.
+
 7. Write a program that provides the option of tallying up the results of a poll with 3 possible
 values. The first input to the program is the poll question; the next three inputs are the possible
 answers. The first answer is indicated by 1, the second by 2, the third by 3. The answers are

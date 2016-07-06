@@ -2,8 +2,8 @@
  ==============================================================================================================================
  Name        : qs7.cpp
  Author      : Siddhata Patil
- Copyright   : Copyright (c) Siddhata Patil. Sourcecode rights reserved.
- Copyright   : Copyright (c) Alex_Allain_Jumping_into_Cpp_Book. Question rights reserved.
+ Copyright   : Copyright ©  Siddhata Patil. Sourcecode rights reserved.
+ Copyright   : Copyright ©  Alex_Allain_Jumping_into_Cpp_Book. Question rights reserved.
  Question    : Write a program that provides the option of tallying up the results of a poll with 3 possible
                values. The first input to the program is the poll question; the next three inputs are the possible
                answers. The first answer is indicated by 1, the second by 2, the third by 3. The answers are

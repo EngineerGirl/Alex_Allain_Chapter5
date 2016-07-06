@@ -2,8 +2,8 @@
  ==============================================================================================================================
  Name        : qs4.cpp
  Author      : Siddhata Patil
- Copyright   : Copyright (c) Siddhata Patil. Sourcecode rights reserved.
- Copyright   : Copyright (c) Alex_Allain_Jumping_into_Cpp_Book. Question rights reserved.
+ Copyright   : Copyright ©  Siddhata Patil. Sourcecode rights reserved.
+ Copyright   : Copyright ©  Alex_Allain_Jumping_into_Cpp_Book. Question rights reserved.
  Question    : Write a password prompt that gives a user only a certain number of password entry attempts—
                so that the user cannot easily write a password cracker.
  ==============================================================================================================================
